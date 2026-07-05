@@ -414,7 +414,7 @@ with col2:
 # ── Footer ──────────────────────────────────────────────────────
 st.markdown("""
 <div class="footer">
-  Built with ❤️ by <strong>Kumari Pratibha Mani</strong> &nbsp;·&nbsp;
+  Built by <strong>Kumari Pratibha Mani</strong> &nbsp;·&nbsp;
   <a href="https://github.com/pratibha2617">GitHub</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/kumari-pratibha-mani-973794294">LinkedIn</a> &nbsp;·&nbsp;
   Dataset: <a href="https://www.kaggle.com/datasets/emmarex/plantdisease">PlantVillage (Kaggle)</a>
